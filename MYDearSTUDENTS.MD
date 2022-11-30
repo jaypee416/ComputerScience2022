@@ -85,8 +85,8 @@ very good! 10++
 Chinese name: 菲利浦
 English Name : John Philip Requina Almonia
 Nickname : JP
-email: jpalmonia41600@gmail.com
-github: https://github.com/4110e239
+email: jprequina416@gmail.com
+github: https://github.com/jaypee416
 
 good! 10+  you can write  some "XXX.md" to receive a very good! 10++ 
 ```
